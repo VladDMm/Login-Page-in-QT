@@ -1,2 +1,2 @@
 This is a simple login page in QT Designer
-![gt](https://github.com/user-attachments/assets/fa118a66-8af1-4850-bba3-69964f39329a)
+![gt](https://github.com/user-attachments/assets/07e30895-7a86-4142-86d7-2be74be34f98)
